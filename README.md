@@ -4,9 +4,6 @@ An interactive Power BI dashboard built to analyze Zomato restaurant data and ge
 
 ---
 
-📊 Dashboard Preview
-
-"Dashboard Preview" (Dashboard%20Screenshot.png)
 
 ---
 
